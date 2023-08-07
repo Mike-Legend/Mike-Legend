@@ -14,11 +14,11 @@
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mike-legend&show_icons=true&locale=en&layout=compact" alt="mike-legend" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike-legend&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="mike-legend" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mike-legend&" alt="mike-legend" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mike-legend&theme=dark&hide_border=false" alt="mike-legend" />
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mike-legend&label=Profile%20views&color=0e75b6&style=flat" alt="mike-legend" /> </p>
