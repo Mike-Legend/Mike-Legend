@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋 I'm Mike</h1>
 <h3 align="center">Full-Stack Software Developer and Engineer</h3>
 
-![test](https://i.imgur.com/YBqg9JG.gif)
+![General Kenobi](https://github.com/Mike-Legend/Mike-Legend/blob/main/YBqg9JG.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
