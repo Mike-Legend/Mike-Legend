@@ -10,7 +10,7 @@
 
 
 <h3 align="center">Resume</h3>
-<a href="[https://linkedin.com/in/michaelxgeorge](https://drive.google.com/file/d/1x80liAfqHz9vv_yMtsN81oQYN3B4MXTQ/view?usp=sharing)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://github.com/simple-icons/simple-icons/blob/develop/icons/carrd.svg)" alt="resume" height="30" width="40" /></a>
+<a href="https://drive.google.com/file/d/1x80liAfqHz9vv_yMtsN81oQYN3B4MXTQ/view?usp=sharing" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/carrd.svg" alt="resume" height="30" width="40" /></a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
