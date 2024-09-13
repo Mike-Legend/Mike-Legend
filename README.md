@@ -1,9 +1,12 @@
 <h1 align="center">Hello 👋 I'm Mike</h1>
-<h3 align="center">U.S. Marine Corps veteran and engineer with experience in repairing electro-mechanical hardware and developing software for any and all platforms.</h3>
+
 <h3 align="center">Full-Stack Software Developer and Engineer</h3>
 
 <p align="center">
   <img src="https://github.com/Mike-Legend/Mike-Legend/blob/main/YBqg9JG.gif">
+
+
+<h3 align="center">U.S. Marine Corps veteran and engineer with experience in repairing electro-mechanical hardware and developing software for any and all platforms.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
