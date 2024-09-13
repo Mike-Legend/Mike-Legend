@@ -1,4 +1,5 @@
 <h1 align="center">Hello 👋 I'm Mike</h1>
+<h2 align="center">U.S. Marine Corps veteran and engineer with experience in repairing electro-mechanical hardware and developing software for any and all platforms.</h2>
 <h3 align="center">Full-Stack Software Developer and Engineer</h3>
 
 <p align="center">
